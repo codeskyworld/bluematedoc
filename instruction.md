@@ -113,24 +113,16 @@ This week
 
 This month
 
-5.2 Jobs（任务管理）
+5.2 日程（schedule）
+
+![schedule-navigation-bar.png 图片无法显示](schedule-navigation-bar-1.png)
+![schedule-navigation-bar.png 图片无法显示](schedule-navigation-bar-2.png)
+
 任务是 BlueMate 的核心。
 
 字段：
 
-Job title
-
-Customer
-
-Address
-
-Scheduled time
-
-Status
-
-Linked quote
-
-Linked invoice
+具体字段如图所示
 
 操作：
 
