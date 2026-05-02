@@ -115,10 +115,21 @@ This month
 
 5.2 日程（schedule）
 
+日程是 BlueMate 的核心goon功能之一，也是日常使用最多的界面。
+
 ![schedule-navigation-bar.png 图片无法显示](schedule-navigation-bar-1.png)
 ![schedule-navigation-bar.png 图片无法显示](schedule-navigation-bar-2.png)
 
-任务是 BlueMate 的核心。
+上图是日程功能的主界面。  
+
+点击右下的“+”号按钮可以，创建新的任务。
+
+![alt text](新建任务CN.png)
+
+
+
+
+
 
 字段：
 
